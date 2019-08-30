@@ -8,6 +8,10 @@
 	font-family:JosefinSans-Regular;
 	src:url('JosefinSans-Regular.ttf');
 }
+body
+{
+	font-size: 84px;
+}
 header
 {
 	height: 150px;
